@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Rafael Faria Ferreira.
-I'm a 24-year-old Brazilian full-stack PHP developer passionate about building software, drinking coffee, and playing guitar.
+
+I'm a 24-year-old Brazilian full-stack PHP developer passionate about building software, drinking coffee, and playing
+guitar.
 
 ---
 
@@ -73,8 +75,8 @@ decide between React and Vue.js, and after seeing the compatibility of Vue with 
 </a>
 
 
-In my journey, I`ve took the Clifton Strenghts as a tool to know me better and work on my skills. Here are my five top
-strenghts:
+In my journey, I've taken the Clifton Strengths as a tool to know myself better and work on my skills. Here are my top
+five strengths:
 
 #### 1️⃣ Achiever
 
