@@ -25,13 +25,13 @@ guitar.
 
 ### You can find me on
 
-<a title="Linkedin" href="https://www.linkedin.com/in/rafaelfariaferreira/">
+<a target="_blank"  title="Linkedin" href="https://www.linkedin.com/in/rafaelfariaferreira/">
     <img title="Linkedin" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a title="Twitter" href="https://twitter.com/Rafael_F_F_">
+<a target="_blank"  title="Twitter" href="https://twitter.com/Rafael_F_F_">
     <img title="Twitter" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a title="Gmail" href="mailto:rafaelfariaferreira1@gmail.com">
+<a target="_blank"  title="Gmail" href="mailto:rafaelfariaferreira1@gmail.com">
     <img title="Gmail" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -70,7 +70,7 @@ decide between React and Vue.js, and after seeing the compatibility of Vue with 
 
 ### 💪🏻 My Strenghts
 
-<a href="https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx">
+<a target="_blank"  href="https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx">
     <img  height="256" src="https://media.licdn.com/dms/image/sync/C4D27AQEN2nKi1ODeRg/articleshare-shrink_800/0/1683976766986?e=1684717200&v=beta&t=l7vZdOXvR5cD7JeSLJc5CMYDhcAvu8K8xP8eGCPziL4" alt="">
 </a>
 
