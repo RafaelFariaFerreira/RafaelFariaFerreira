@@ -68,7 +68,7 @@ decide between React and Vue.js, and after seeing the compatibility of Vue with 
 
 ----
 
-### 💪🏻 My Strenghts
+### 💪🏻 My Strengths
 
 <a target="_blank"  href="https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx">
     <img  height="256" src="https://media.licdn.com/dms/image/sync/C4D27AQEN2nKi1ODeRg/articleshare-shrink_800/0/1683976766986?e=1684717200&v=beta&t=l7vZdOXvR5cD7JeSLJc5CMYDhcAvu8K8xP8eGCPziL4" alt="">
