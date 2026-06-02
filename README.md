@@ -1,6 +1,6 @@
 ### Hi, I'm Rafael Faria Ferreira 👋
 
-**Founder & CEO of [MarkMedi](#) — building the operating system for modern dermatology & aesthetic clinics.**
+**Founder & CEO of [MarkMedi](https://www.markmedi.com) — building the operating system for modern dermatology & aesthetic clinics.**
 
 I'm a full-stack engineer turned founder. After ~15 years writing code and running a software agency, I'm now focused on a single mission: giving medical clinics one platform to acquire, manage, and retain patients — instead of the tangle of disconnected tools they use today.
 
